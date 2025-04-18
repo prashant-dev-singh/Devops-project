@@ -1,0 +1,22 @@
+Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\prash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" }...
+   2  & 'c:\Users\prash\AppData\Local\Programs\Python\Python313\python.exe' 'c:\Users\prash\.vscode\extensions\ms-python.debugpy-2025.6.0-win32-x64\bundled\...
+   3 ls
+   4 ls -l
+   5 git init
+   6 git version
+   7 ls -a
+   8 dir
+   9 dir -a
+  10 dir
+  11 git status
+  12 git add testing.py
+  13 git status
+  14 git commit -m "adding testing file"
+  15 git status
+  16 git commit -m "adding testing file"
+  17 git config --global user.email "prashantdev4u@gmail.com"
+  18 git config --global user.name "prashant-dev-singh"
+  19 git commit -m "adding testing file"
+  20 git status
