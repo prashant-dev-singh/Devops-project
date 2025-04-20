@@ -21,3 +21,4 @@ Id CommandLine
   19 git commit -m "adding testing file"
   20 git status
   git "comments added"
+  git "Adding changes in GIT now" 
