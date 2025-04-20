@@ -22,3 +22,20 @@ Id CommandLine
   20 git status
   git "comments added"
   git "Adding changes in GIT now" 
+  20 git status
+  21 history
+  22 git add git_commands.txt
+  23 git status
+  24 git commit -m "command file added"
+  25 git status
+  26 git status
+  27 git remote add origin https://github.com/prashant-dev-singh/Devops-project.git
+  28 git push origin master
+  29 git push origin master
+  30 git status
+  31 git add git_commands.txt
+  32 git status
+  33 git commit -m "commit changes"
+  34 git status
+  35 git push origin master
+  36 git pull origin master
