@@ -20,3 +20,4 @@ Id CommandLine
   18 git config --global user.name "prashant-dev-singh"
   19 git commit -m "adding testing file"
   20 git status
+  git "comments added"
